@@ -1,67 +1,16 @@
 #EXTM3U
-#EXT-X-VERSION:6
 
-############################################################
-# CHANNEL
-# Adaptive HLS Master Playlist
-############################################################
+#EXT-X-STREAM-INF:BANDWIDTH=6939833,RESOLUTION=1920x1080,FRAME-RATE=50,CODECS="avc1.64002A,mp4a.40.2"
+https://use23.playlist.ttvnw.net/v1/playlist/CvEEnW2_q7hdx2pkKSVXnO8c30blX4ZLurnaT78mncL4_R1sbRlVdeuMTLsYs5-FZFTDgwDfuSuzSXwj5qz7eh9qEpJTC5KhJ5-Ffkd2Zrkko67N43D3A7sFEalce3-7H0O1csJPkGqG_dP1p2QPuEztzKrPdQNYX45A8KPIucn0qkT39YFyQI7bd42VPQ9S1w4bfxLeKAtEATXuLlhmK3noqTLvyGN0jm2SEzjkMhQ6OBzwF_YwiDQGVnFC0k2IKgrrhIdwp9DiaYdJsxBDefJGFGocMNuSlALg8lf2xLVqKZWqFx93hEpMigDOeX6V-HABl81Xex6irWjuzgB0Pgk4pUqnMORRPzzSATrR3bye6GPqFkRIRUYxoX2J7yDM3yoyvhlbqHse55Rj6kk0noJWdxSeyIcOvdiNQkbXldDdKzZz6USpMJua7kXjMVd3MDfrOKmYXrwJRgD57ZbePZcukdZ6H4CE_Tc2j8UBoYGYVYCA4FaXgVgc4rRP4R3eoO_pcYI0o7G3JsD1Xh6FjcDYm7F6cIP0bzwSe-7KSSbeL7Jw774E1XWt8624NqfvH1DmwUwaThVs77A5Ydd5V49dR_2ZNuiJqukn-Hnh_W59uUD2T75MNs5zDlgHJM05Pnx86Co-ywjertOj822eO2Dc3eVF-_3B5wHb9AwgjIv7s7jtTPWRdtVYP2hWovkjzwTe3Xbhb8JaiqAP5snsik5flFkMOqRLQ_QO7B1H7YT64E9y1h7prX9FzR9VA0RWBVPnyeCdnnTeUl9GBXm8DAya-BSr6D054T3_c0HacAID5OQ2M3Bzhm6abqpnfzU6gU6MPBoMpChzi3a10YrNAP1ZIAEqCXVzLWVhc3QtMjDEDw.m3u8
 
-############################################################
-# SOURCE
-############################################################
-# Resolution : 1920x1080
-# Frame Rate: 50 FPS
-# Bitrate   : 6.94 Mbps
-############################################################
+#EXT-X-STREAM-INF:BANDWIDTH=3188852,RESOLUTION=1280x720,FRAME-RATE=50,CODECS="avc1.640020,mp4a.40.2"
+https://use23.playlist.ttvnw.net/v1/playlist/CucElL5wOJ-pGrWj-o9iFm7hb-ZYxv69pCwkR7giSJgWrZKmhiJfYYeWY1pCZw9SYsHk37zEk_ZQphbRvYwzsDFTnGnY9IZ_Fgk-P6eE-7VBJUuiKowVT4yrEkc7uDvNSvh9O42EekZEGhz5YnWKuqIRm2A0-SQFgnujH5lyaGLekTHUwxcJXbAYLWzYcguLKbr1wsxrpRIhZ2MnR0QCKH3JLoj3JaNrHqqAaKV6S3LtqkjAm82h0Lfy09Mzdlqn-wQKkxLzw30HEQGvuVWPQ5-Zm9vKSM2cd6Zyw5OTz79onjdg0MAb6ldFJgOApOCDeHyCfjyInBOCiGrQhXW0V2WBH5Uvf_c6j21tzuo_WK2UcJK8cmJG4gyjoiieJlNFsnooLZoQnZmQB-CMi4f_S-EdNAenXvBkNtDBSKGVO1k3KgSriDFWzSfz94pRdgzts_uMAlTpyZgn6NKEmP1IGlJkvqNTeTMSQQe_Aeh3o-pTnOTjWkeZLnRdnaMTbb3Oc2OoX2MWK5iFWn-zxgPnLf9jaumKVQsxKqvhtiD0FVkGLHV9koUXNyhLhK0qpDV08UPgB0JEiXmiTZfnVmp1He4auIWD93pImwLhX1OBeLJEvEaMepXdLE5GRaG76eqC8Z9aaj5AKgcw5iS1cXilKzksSpIdr-3TPMQtBwhKCCJB9t5idtztH53sX10GxpU0ggNUCtvAxtoVuuY0rTXhqshsf8Cb2Noa_bV8BSPMAIwFve81T4EOVh35U8C8o6mdm0xFyHbAApLF3SqlCK6k-o2seWFz7ZKzaMQzKxJQz3QLCQVB1QhoqraFGgwPFnQvHIJ4lffZwkMgASoJdXMtZWFzdC0yMMQP.m3u8
 
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="1080p50",NAME="1080p50 (Source)",AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=6939833,AVERAGE-BANDWIDTH=6500000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",VIDEO="1080p50"
-https://use23.playlist.ttvnw.net/v1/playlist/......
+#EXT-X-STREAM-INF:BANDWIDTH=1553168,RESOLUTION=852x480,FRAME-RATE=25,CODECS="avc1.64001E,mp4a.40.2"
+https://use23.playlist.ttvnw.net/v1/playlist/Ct8E-OSCUrpVPS5qqAO2mLb03-t3tVyz9HPpGksrJ5qgawuY2yOdmJksZKCSVW1_6WWS8F5KGITKkGUKwe8WuPDmFP6jei-RO3_eWTn9ou7FJK_aeyaSXue43IR9zTbHUnIeHYGCd76RbsNIx3BVZQ05qmkKk05G2t0KMn1mmy3jUgF0L3BxnlWTEPSJaxwFXEOgF5oas__-H2ICX84m6pyAMmIPj2sih5dmyEYFweC3aVfiAaqBco7f8RIXcyUjywlT2N5Zb72CKI3ptay7t7xVAByZ1F2Vzvm153VZtcEo5Ix9JCM7o05n5NmgQBonjFddBrBuf6CDy6DnpfSoO9viZi9J1F1qrNYgV3v6T7SwKzPXR_0CuBiVlZcNT9vdqAQA3XXUAIXLK-1rKipz5k9pGokpXrzqcKIhgRGfofuBlaQ2BykK_j6rZydQDNPe7yL9rnK-RoWcMdCOBPNAgEk_PaWFWZnPxCjUdaMI0xXUGAXLFq-TCVDhEQGxhCFbxIDGxFlR3vtfVRMTuc1UO6M9vhZ82rq7DpgEmwo0Uc8k2eT2ABXICLWvdGjZzAxgFk2T1TcJ45YfnM7_CH4heTBjODeQ4hUYH-CRb-8HMfyc8ZZ5lMgcvX2blj0wnrcJ-JYLFgAVWyRBp4QlQjyCfyuP4ZrLC0ady1VUkrx2Z6Ogv0VyePmV1lLM4a-w_cJwZiQ4snYUWTv4shSJVEb-9SVQh_TLlHZGU5FdZfnLlZz9DN6me_eaXsO9LcCdiMHCQkS26Wt1ft8bNJEc6TOnwVjmoqfnbNon75QgGu_eubpZ4BoMSxBYyFDblBK5eO7eIAEqCXVzLWVhc3QtMjDEDw.m3u8
 
-############################################################
-# 720P
-############################################################
-# Resolution : 1280x720
-# Frame Rate: 50 FPS
-# Bitrate   : 3.19 Mbps
-############################################################
+#EXT-X-STREAM-INF:BANDWIDTH=1016468,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.4D401E,mp4a.40.2"
+https://use23.playlist.ttvnw.net/v1/playlist/CtcEISleaNPRSwD4pUNs0zj-XsI9Lp9Rv5mIKnWtqEoJSuwNJzMIVg8ysTr10Nni7WiXesflCn4yuq3S0szQY_ONykUsZ_893HI0iqk2WoCTwc_7z39CJ1EI79RoZBQDHudgYl0VB0agrTfuVZIi_dRZ3RvCWZPputeWIcU44BV8MeXyIaBF9qM03_CM9IKjrEEoxWAoX8CXiIXr-1fYf_3qQpK_w5XEib95S21uAb3NrYsC3bBf2GDvdwGewIOCUbVZ7XDDo-SJKMxwz6mY3nPj4PZnXUGB0nFPVjenTENOELqOG7VZZfr1wa98WlHzw7q2Zo2sl2HktTHj3VoOYNoHfg0pW6jA3FSw5bD1wihqhcywEOf0ndOrbaHiMXRie2BOH_K30FzOkbEhtDYmgrt5AeXAgwI9WwaNeEUTVXFYUZRVtculjVvI7Be7oMARfj4g_YTPwCH48TxqEP-uEkHoBrufVUI8aev2r3ordceC2gR1s5m5EtL3yPqXUyW7uFw7Y50KY6395gvHVYadH-Fp1YEyE2_RtMjnuqEnpzS1U10UT8mBHhyT6BlinSD89LuNb-eBIe6_EH90Ez_92K6fUT3jqi0yo6xE6nMaWlnRgRNnoi0W53hNRyeUhEB-7JuKdMYU5irOFKD8nN7havGkdQz-sIHECEmo04qef4SHjpmCTzQNLXEENQFv3cWVImJJBFVB4tp-BvuoCYqAUvvGrT2QU_f8mFA77fSsVvoRx_4Ve9gbb9zxQ67EkCVJgJs_4zvN8BaaSs0qRAZdQhW307iCbcx2ukkaDJsInHLDKOzlTizXlCABKgl1cy1lYXN0LTIwxA8.m3u8
 
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="720p50",NAME="720p50",AUTOSELECT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=3188852,AVERAGE-BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.640020,mp4a.40.2",VIDEO="720p50"
-https://use23.playlist.ttvnw.net/v1/playlist/......
-
-############################################################
-# 480P
-############################################################
-# Resolution : 852x480
-# Frame Rate: 25 FPS
-# Bitrate   : 1.55 Mbps
-############################################################
-
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="480p25",NAME="480p25",AUTOSELECT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1553168,AVERAGE-BANDWIDTH=1500000,RESOLUTION=852x480,FRAME-RATE=25.000,CODECS="avc1.64001E,mp4a.40.2",VIDEO="480p25"
-https://use23.playlist.ttvnw.net/v1/playlist/......
-
-############################################################
-# 360P
-############################################################
-# Resolution : 640x360
-# Frame Rate: 25 FPS
-# Bitrate   : 1.02 Mbps
-############################################################
-
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="360p25",NAME="360p25",AUTOSELECT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=1016468,AVERAGE-BANDWIDTH=1000000,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4D401E,mp4a.40.2",VIDEO="360p25"
-https://use23.playlist.ttvnw.net/v1/playlist/......
-
-############################################################
-# 160P
-############################################################
-# Resolution : 284x160
-# Frame Rate: 25 FPS
-# Bitrate   : 694 Kbps
-############################################################
-
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="160p25",NAME="160p25",AUTOSELECT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=694511,AVERAGE-BANDWIDTH=650000,RESOLUTION=284x160,FRAME-RATE=25.000,CODECS="avc1.4D400C,mp4a.40.2",VIDEO="160p25"
-https://use23.playlist.ttvnw.net/v1/playlist/......
+#EXT-X-STREAM-INF:BANDWIDTH=694511,RESOLUTION=284x160,FRAME-RATE=25,CODECS="avc1.4D400C,mp4a.40.2"
+https://use23.playlist.ttvnw.net/v1/playlist/Cs8ETM0YE3vmTaMa22mgFRZRjwNsP0ieiqNG8XE4GhNFpe-USF1qS2mS__v423BWdQPWx9sSC66X532km-OqbapYd519vuFb2jqDUHY09LxqjsRDs7hLxAaPbgFeI02fHEYUs1GemnojyPdQLhFZ51QGgyXT2n7e8dBRaPoZKOA5JX8HxFzYieI6H04hNKfCa--YSfGvn7vzBxYiC_9WL2B6xK6gNYIGQOoFwI_faXFj2jC2aOP-lWnyON9XlH-dkzCuF-mrQixEoKSXfanrxCA3FkrFeizdTUC0Cos0aI8jFg5w52oq1CiV25y2ocT8FqZworF745zsw0iwx0a86EQ8W2EwPM0CXXL6SMSOfj1MXfz-scWO0VtscANLbrVFkWhMOeRbEfchYoRfZZXzHoSql6oNo1YlluicSsgVe6UV9fesIWFXgSSiHuZtghpWIUBvPjifkC5PQbifROdjXpGAdoIW7KC5AS7j_QaI7s7zKl5mKAigFQU8jp6mPnRFFQeX64m8K1AMoZBBBSTeorSNwcz6ZUR09NErvRaHhSnEUMGcRYvc-P-mnSkSAKdsxOC7SaM4Bgfb-Zw82UOefpeqa4tdDsW9Hk_x5YK0F0k2gI5DjExO7q8tmEvy1YJIMCbwLdfLC55M5CouRslJySy55n0jNf1HdHuuZ3jVpSaWlHAnsz0H2e6XrZxifanF53Ea7uE6p8q3ILREPRDp6obGM5Rd1DDSoCVedVX4OKavwkeAQJqMVtMNm28EzAcu0_fxggpDv30-XhHfEz2KD629GgzkESgpst8a2A1lkXAgASoJdXMtZWFzdC0yMMQP.m3u8
