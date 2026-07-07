@@ -1,0 +1,67 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+############################################################
+# CHANNEL
+# Adaptive HLS Master Playlist
+############################################################
+
+############################################################
+# SOURCE
+############################################################
+# Resolution : 1920x1080
+# Frame Rate: 50 FPS
+# Bitrate   : 6.94 Mbps
+############################################################
+
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="1080p50",NAME="1080p50 (Source)",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=6939833,AVERAGE-BANDWIDTH=6500000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",VIDEO="1080p50"
+https://use23.playlist.ttvnw.net/v1/playlist/......
+
+############################################################
+# 720P
+############################################################
+# Resolution : 1280x720
+# Frame Rate: 50 FPS
+# Bitrate   : 3.19 Mbps
+############################################################
+
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="720p50",NAME="720p50",AUTOSELECT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=3188852,AVERAGE-BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.640020,mp4a.40.2",VIDEO="720p50"
+https://use23.playlist.ttvnw.net/v1/playlist/......
+
+############################################################
+# 480P
+############################################################
+# Resolution : 852x480
+# Frame Rate: 25 FPS
+# Bitrate   : 1.55 Mbps
+############################################################
+
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="480p25",NAME="480p25",AUTOSELECT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1553168,AVERAGE-BANDWIDTH=1500000,RESOLUTION=852x480,FRAME-RATE=25.000,CODECS="avc1.64001E,mp4a.40.2",VIDEO="480p25"
+https://use23.playlist.ttvnw.net/v1/playlist/......
+
+############################################################
+# 360P
+############################################################
+# Resolution : 640x360
+# Frame Rate: 25 FPS
+# Bitrate   : 1.02 Mbps
+############################################################
+
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="360p25",NAME="360p25",AUTOSELECT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1016468,AVERAGE-BANDWIDTH=1000000,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4D401E,mp4a.40.2",VIDEO="360p25"
+https://use23.playlist.ttvnw.net/v1/playlist/......
+
+############################################################
+# 160P
+############################################################
+# Resolution : 284x160
+# Frame Rate: 25 FPS
+# Bitrate   : 694 Kbps
+############################################################
+
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="160p25",NAME="160p25",AUTOSELECT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=694511,AVERAGE-BANDWIDTH=650000,RESOLUTION=284x160,FRAME-RATE=25.000,CODECS="avc1.4D400C,mp4a.40.2",VIDEO="160p25"
+https://use23.playlist.ttvnw.net/v1/playlist/......
