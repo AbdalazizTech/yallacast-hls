@@ -1,11 +1,9 @@
-# HEVC (4K)
+#EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=12000000,RESOLUTION=3840x2160,CODECS="hvc1,mp4a.40.2"
 # Full HD
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2201.ts
 # HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,CODECS="avc1.4D401F,mp4a.40.2"
-http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2207.ts
 # SD
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42E01E,mp4a.40.2"
 http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2213.ts
@@ -15,10 +13,10 @@ http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2213.ts
 http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2195.ts
 
 #EXT-X-STREAM-INF:BANDWIDTH=3188852,RESOLUTION=1280x720,FRAME-RATE=50,CODECS="avc1.640020,mp4a.40.2"
-https://use23.playlist.ttvnw.net/v1/playlist/......720.m3u8
+http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2201.ts
 
 #EXT-X-STREAM-INF:BANDWIDTH=1553168,RESOLUTION=852x480,FRAME-RATE=25,CODECS="avc1.64001E,mp4a.40.2"
-https://use23.playlist.ttvnw.net/v1/playlist/......480.m3u8
+http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2207.ts
 
 #EXT-X-STREAM-INF:BANDWIDTH=1016468,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.4D401E,mp4a.40.2"
 https://use23.playlist.ttvnw.net/v1/playlist/......360.m3u8
