@@ -7,5 +7,5 @@ http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2206.m3u8
 http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2212.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1016468,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.4D401E,mp4a.40.2"
 http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2218.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1016468,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.4D401E,mp4a.40.2"
-http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2326.ts
+#EXT-X-STREAM-INF:BANDWIDTH=1016468,RESOLUTION=640x240,FRAME-RATE=25,CODECS="avc1.4D401E,mp4a.40.2"
+http://beetv.ee:80/live/bandrline/yTnzVh2SnA/2326.m3u8
